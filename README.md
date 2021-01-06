@@ -1,4 +1,4 @@
-# Eu sou Thales Batista, Estudante de Desenvolvimento Web <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# Eu sou Thales Batista, Trainee de Desenvolvimento Web <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=https://www.linkedin.com/in/thales-batista-561621129/)](https://www.linkedin.com/in/thales-batista-561621129/)
 [![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-6633cc?style=flat-square&logo=Whatsapp&logoColor=white&color=black&link=https://api.whatsapp.com/send?phone=5591985699690)](https://api.whatsapp.com/send?phone=5591985699690)
@@ -14,7 +14,7 @@
     name: 'Thales Batista',
     age: 23,
     city: 'Belém, PA',
-    stack: ['HTML', 'CSS', 'Java Script', 'Java'],
+    stack: ['HTML', 'CSS', 'Java Script', 'Angular', 'Java', 'Spring Boot REST API', 'TypeScript'],
     hobby: 'I love to learn programming and games'
   });
   
