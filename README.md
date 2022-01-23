@@ -14,7 +14,7 @@
     name: 'Thales Batista',
     age: 23,
     city: 'Belém, PA',
-    stack: ['HTML', 'CSS', 'Java Script', 'Angular', 'Java', 'Spring Boot REST API', 'TypeScript'],
+    stack: ['HTML', 'CSS', 'Java Script', 'Angular', 'Java', 'Spring Boot', 'TypeScript'],
     hobby: 'I love to learn programming and games'
   });
   
