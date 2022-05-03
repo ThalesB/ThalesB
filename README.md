@@ -12,7 +12,7 @@
 ```javascript
   async user.index({
     name: 'Thales Batista',
-    age: 23,
+    age: 25,
     city: 'Belém, PA',
     stack: ['HTML', 'CSS', 'Java Script', 'Angular', 'Java', 'Spring Boot', 'TypeScript'],
     hobby: 'I love to learn programming and games'
